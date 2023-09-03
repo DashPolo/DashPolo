@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DashPolo
 - 👀 I’m interested in security and network.
-- 🌱 I’m currently in my third year of computer engineering school.
+- 🌱 I’m currently in my fifth year of computer engineering school.
 - 📫 How to reach me : paul-annet.renoux@epita.fr
 
 <!---
